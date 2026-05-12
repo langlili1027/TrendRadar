@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-05-12T17:51:03.768914+08:00",
-  "total_titles_processed": 1151,
-  "failed_sources": [],
+  "generated_at": "2026-05-12T20:02:29.338074+08:00",
+  "total_titles_processed": 1298,
+  "failed_sources": [
+    "wallstreetcn-hot"
+  ],
   "trends": [],
   "report_image_url": "https://langlili1027.github.io/TrendRadar/img/news.jpg"
 }
